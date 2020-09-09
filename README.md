@@ -1,4 +1,5 @@
 # Caffe
+This is a frok from `caffe`, it contains the changes from the [MCB authors](https://github.com/akirafukui/caffe/tree/feature/20160617_cb_softattention), and an aditional permute layer from [weiliu89](https://github.com/BVLC/caffe/commit/b68695db42aa79e874296071927536363fe1efbf)
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
